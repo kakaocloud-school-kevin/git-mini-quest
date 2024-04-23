@@ -1,0 +1,3 @@
+자격증: SQLD, 정보처리기사 필기만 합격
+대외활동: 없음..
+사용기술: Spring, MySQL, MyBatis, JQuery
